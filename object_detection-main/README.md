@@ -1,6 +1,6 @@
 # Object detection project
 ## Machine Learning powered Android Application integrated in flutter
-This application can detect objects in any of the three ways:
+This application can detect objects in any of the following ways:
   * Image choosen from Gallery
   * Real time in video stream
 ## The app is the final project for subject Movil Programmation
